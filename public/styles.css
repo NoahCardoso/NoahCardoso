@@ -26,7 +26,7 @@ a:hover {
 
 /* Header Section */
 h1, h2 {
-    border-bottom: 2px solid #ffcc00;
+    border-bottom: 2px solid #333333; /* Changed from yellow to dark gray */
     padding-bottom: 10px;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -67,8 +67,8 @@ p {
     display: inline-block;
     margin-right: 15px;
     padding: 10px 20px;
-    background-color: #ffcc00;
-    color: #121212;
+    background-color: #333333; /* Changed from yellow to dark gray */
+    color: #ffffff;
     border-radius: 5px;
     text-transform: uppercase;
     font-weight: bold;
@@ -76,7 +76,7 @@ p {
 }
 
 .social-link:hover {
-    background-color: #ffaa00;
+    background-color: #555555; /* Slightly lighter gray */
     transform: translateY(-3px);
 }
 
@@ -84,7 +84,7 @@ p {
 #projects h2 {
     margin-bottom: 30px;
     font-size: 2em;
-    color: #ffcc00;
+    color: #ffffff; /* Changed from yellow to white */
 }
 
 /* Each project card styling */
@@ -127,7 +127,7 @@ p {
     font-size: 1.6em;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #ffcc00;
+    color: #ffffff; /* Changed from yellow to white */
     text-transform: uppercase;
 }
 
@@ -143,8 +143,8 @@ p {
     display: inline-block;
     margin-top: 10px;
     padding: 12px 18px;
-    background-color: #ffcc00;
-    color: #121212;
+    background-color: #333333; /* Changed from yellow to dark gray */
+    color: #ffffff;
     border-radius: 5px;
     text-transform: uppercase;
     font-weight: bold;
@@ -152,6 +152,6 @@ p {
 }
 
 .project-link:hover {
-    background-color: #ffaa00;
+    background-color: #555555; /* Slightly lighter gray */
     transform: translateY(-3px);
 }
