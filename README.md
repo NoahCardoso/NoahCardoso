@@ -4,10 +4,11 @@
 - I am a second-year Software Engineering student at McMaster.
 - I enjoy solving complex problems and learning new technologies.
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/noah-cardoso/)
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+Languages:
 ![Haskell](https://img.shields.io/badge/-Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
