@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Noah Cardoso</h1>
 
 # 👨‍💻 About Me
-- I am a third-year Software Engineering student at McMaster.
+- I am a fourth year Software Engineering student at McMaster.
 - I enjoy solving complex problems and learning new technologies.
 
 # 📫 Connect with Me
