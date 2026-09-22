@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋 I'm Noah Cardoso</h1>
+# Noah Cardoso
 
-# 👨‍💻 About Me
-- I am a fourth year Software Engineering student at McMaster.
-- I enjoy solving complex problems and learning new technologies.
+### Software Engineering (B.Eng) Co-op Student
 
-# 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/noah-cardoso/)
+[![GitHub followers](https://img.shields.io/github/followers/NoahCardoso?label=Followers&style=social)](https://github.com/NoahCardoso)
+[![LinkedIn](https://img.shields.io/badge/-/in/noah--cardoso-blue?style=flat&logo=linkedin&label=Profile)](https://linkedin.com/in/noah-cardoso)
+---
+```javascript
+import SoftwareDeveloper from 'CardosoNoah';
 
-# 🛠️ Tech Stack
-Languages:
-![Haskell](https://img.shields.io/badge/-Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
+class Bio extends SoftwareDeveloper {
+    name        = 'Noah Cardoso';
+    title       = 'Software Engineering Student';
+    school      = 'McMaster University';
+    future      = 'Backend Software Developer';
+    location    = 'Hamilton, Ontario, Canada';
+}
 
-Developer Tools: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+class Experience extends SoftwareDeveloper {
+
+    positionOne = {
+        position    : 'Software Developer Intern',
+        company     : 'McMaster Research – Drasil Project | On-site',
+        location    : 'Hamilton, Ontario, Canada',
+        date        : 'May 2024 - August 2024',
+    };
+
+    positionTwo = {
+        position    : 'Software Development Engineer in Test',
+        company     : 'Pillar To Post Home Inspectors | Remote',
+        location    : 'Remote',
+        date        : 'September 2025 - January 2026',
+    };
+
+    positionThree = {
+        position    : 'Junior Software Developer',
+        company     : 'Pillar To Post Home Inspectors | Remote',
+        location    : 'Remote',
+        date        : 'February 2026 - August 2026',
+    };
+
+}
+
+class Skills extends SoftwareDeveloper {
+    languages   = ['Java', 'Python', 'JavaScript', 'C', 'Haskell', 'SQL'];
+    tools       = ['Postman', 'Maven', 'Git', 'Linux'];
+    frameworks  = ['Spring Boot', 'Node.js', 'Express', 'Django', 'JPA/Hibernate', 'Socket.IO'];
+}
+```
 
 
