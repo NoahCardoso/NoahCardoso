@@ -17,7 +17,6 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Experience extends SoftwareDeveloper {
-
     positionOne = {
         position    : 'Software Developer Intern',
         company     : 'McMaster Research – Drasil Project | On-site',
